@@ -1,7 +1,7 @@
 module go.elastic.co/apm/module/apmbeego
 
 require (
-	github.com/astaxie/beego v1.11.1
+	github.com/Sonek-HoangBui/beego v1.12.2-0.20210303120447-b09497231ddb
 	github.com/stretchr/testify v1.5.1
 	go.elastic.co/apm v1.11.0
 	go.elastic.co/apm/module/apmhttp v1.11.0

@@ -22,7 +22,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/astaxie/beego"
+	"github.com/Sonek-HoangBui/beego"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 

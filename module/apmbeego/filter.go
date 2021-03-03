@@ -21,8 +21,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/astaxie/beego"
-	beegocontext "github.com/astaxie/beego/context"
+	"github.com/Sonek-HoangBui/beego"
+	beegocontext "github.com/Sonek-HoangBui/beego/context"
 
 	"go.elastic.co/apm"
 	"go.elastic.co/apm/module/apmhttp"

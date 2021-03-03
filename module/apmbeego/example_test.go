@@ -18,7 +18,7 @@
 package apmbeego_test
 
 import (
-	"github.com/astaxie/beego"
+	"github.com/Sonek-HoangBui/beego"
 
 	"go.elastic.co/apm/module/apmbeego"
 )
