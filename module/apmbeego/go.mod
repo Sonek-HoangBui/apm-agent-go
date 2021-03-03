@@ -1,4 +1,4 @@
-module go.elastic.co/apm/module/apmbeego
+module github.com/Sonek-HoangBui/apm-agent-go/module/apmbeego
 
 require (
 	github.com/Sonek-HoangBui/beego v1.12.2-0.20210303120447-b09497231ddb
